@@ -1,0 +1,26 @@
+[
+  {
+    "MaSanPham": "1",
+    "TenSanPham": "a",
+    "GiaBan": 100.0,
+    "SoLuongTonKho": 5
+  },
+  {
+    "MaSanPham": "2",
+    "TenSanPham": "b",
+    "GiaBan": 250.0,
+    "SoLuongTonKho": 200
+  },
+  {
+    "MaSanPham": "4",
+    "TenSanPham": "k",
+    "GiaBan": 40.0,
+    "SoLuongTonKho": 100
+  },
+  {
+    "MaSanPham": "5",
+    "TenSanPham": "c",
+    "GiaBan": 500.0,
+    "SoLuongTonKho": 9
+  }
+]

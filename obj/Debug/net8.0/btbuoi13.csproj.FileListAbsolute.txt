@@ -15,3 +15,4 @@ E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\ref\btbuoi13.dll
 E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.csproj.AssemblyReference.cache
 E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.csproj.Up2Date
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.sourcelink.json

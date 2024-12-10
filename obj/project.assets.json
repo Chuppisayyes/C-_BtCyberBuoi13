@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\New Volume\\Cyber-C#\\btvn_buoi13\\btbuoi13\\btbuoi13.csproj",
+      "projectUniqueName": "E:\\New Volume\\Cyber-C#\\btvn_buoi13\\btbuoi13\\btbuoi13.csproj",
       "projectName": "btbuoi13",
-      "projectPath": "e:\\New Volume\\Cyber-C#\\btvn_buoi13\\btbuoi13\\btbuoi13.csproj",
+      "projectPath": "E:\\New Volume\\Cyber-C#\\btvn_buoi13\\btbuoi13\\btbuoi13.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "e:\\New Volume\\Cyber-C#\\btvn_buoi13\\btbuoi13\\obj\\",
+      "outputPath": "E:\\New Volume\\Cyber-C#\\btvn_buoi13\\btbuoi13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

@@ -1,0 +1,2 @@
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Release\net8.0\win-x64\publish\btbuoi13.pdb
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Release\net8.0\win-x64\publish\btbuoi13.exe
