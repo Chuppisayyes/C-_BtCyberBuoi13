@@ -1,0 +1,37 @@
+[
+  {
+    "MaHocSinh": "1",
+    "TenHocSinh": "a",
+    "DiemToan": 9.0,
+    "DiemVan": 7.0,
+    "DiemAnh": 10.0
+  },
+  {
+    "MaHocSinh": "2",
+    "TenHocSinh": "v",
+    "DiemToan": 9.0,
+    "DiemVan": 1.0,
+    "DiemAnh": 10.0
+  },
+  {
+    "MaHocSinh": "3",
+    "TenHocSinh": "g",
+    "DiemToan": 5.0,
+    "DiemVan": 6.0,
+    "DiemAnh": 7.0
+  },
+  {
+    "MaHocSinh": "5",
+    "TenHocSinh": "c",
+    "DiemToan": 8.0,
+    "DiemVan": 3.0,
+    "DiemAnh": 7.0
+  },
+  {
+    "MaHocSinh": "6",
+    "TenHocSinh": "d",
+    "DiemToan": 2.0,
+    "DiemVan": 11.0,
+    "DiemAnh": 8.0
+  }
+]

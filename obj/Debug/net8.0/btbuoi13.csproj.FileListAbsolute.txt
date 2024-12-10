@@ -1,0 +1,17 @@
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\btbuoi13.exe
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\btbuoi13.deps.json
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\btbuoi13.runtimeconfig.json
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\btbuoi13.dll
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\btbuoi13.pdb
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.AssemblyInfoInputs.cache
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.AssemblyInfo.cs
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.csproj.CoreCompileInputs.cache
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.dll
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\refint\btbuoi13.dll
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.pdb
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.genruntimeconfig.cache
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\ref\btbuoi13.dll
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.csproj.AssemblyReference.cache
+E:\New Volume\Cyber-C#\btvn_buoi13\btbuoi13\obj\Debug\net8.0\btbuoi13.csproj.Up2Date
